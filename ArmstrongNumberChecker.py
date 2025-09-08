@@ -10,4 +10,4 @@ if total == num:
 else:
     print(num, "is not an Armstrong number.")
 
-print("This program is written and executed by Mannan Tayal (0231BCA047).")
+print("This program is written and executed by PRIYESH (0231BCA024).")
