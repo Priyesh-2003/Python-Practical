@@ -27,4 +27,4 @@ for num in range(start, end + 1):
     if total == num:
         print(num, end=" ")
 
-print("\n\nThis program is written and executed by Mannan Tayal (0231BCA047).")
+print("\n\nThis program is written and executed by PRIYESH (0231BCA024).")
