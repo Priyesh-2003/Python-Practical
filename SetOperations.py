@@ -13,6 +13,6 @@ print("Union:", union)
 print("Intersection:", intersection)
 print("Difference:", difference)
 
-print("\nThis program is written and executed by Mannan Tayal (0231BCA047)")
+print("\nThis program is written and executed by priyesh (0231BCA024)")
 
 #
