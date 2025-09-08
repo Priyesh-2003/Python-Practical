@@ -21,4 +21,4 @@ else:
 
 # Print the calculated tax
 print("Your total income tax is Rs:", round(tax, 2))
-print("\nThis program is written and executed by Mannan Tayal (0231BCA047)")
+print("\nThis program is written and executed by priyesh (0231BCA024)")
