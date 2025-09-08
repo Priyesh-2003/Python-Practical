@@ -5,4 +5,4 @@ if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
 else:
     print(year, "is not a leap year.")
 
-print("This program is written and executed by Mannan Tayal (0231BCA047).")
+print("This program is written and executed by priyesh (0231BCA024).")
