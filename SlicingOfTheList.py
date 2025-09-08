@@ -14,4 +14,4 @@ print("Last Element:",last_element)
 
 print("Sliced List:",sub_list)
 
-print("This program is written and executed by Mannan Tayal (0231BCA047)")
+print("This program is written and executed by priyesh (0231BCA024)")
