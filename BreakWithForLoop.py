@@ -6,4 +6,4 @@ for i in range(1, 11):
         break  # Exit the loop when i is 6
     print(i)
 
-print("This program is written and executed by Mannan Tayal (0231BCA047)")
+print("This program is written and executed by Priyesh(0231BCA024)")
