@@ -10,4 +10,4 @@ print("Age:", age, "| Type:", type(age))
 print("Height:", height, "| Type:", type(height))
 print("Is Student:", is_student, "| Type:", type(is_student))
 
-print("this program was written and executed by Mannan Tayal (0231BCA047)")
+print("this program was written and executed by Priyesh (0231BCA024)")
