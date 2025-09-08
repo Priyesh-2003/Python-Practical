@@ -8,6 +8,6 @@ my_dict ['city'] = 'New York'
 
 print(my_dict)
 
-print("\nThis program is written and executed by Mannan Tayal (0231BCA047)")
+print("\nThis program is written and executed by Priyesh (0231BCA024)")
 
 #
