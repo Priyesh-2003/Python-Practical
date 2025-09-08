@@ -12,4 +12,4 @@ words = ["apple", "banana", "cherry"]
 upper_words = [word.upper() for word in words]
 print("Uppercase words:", upper_words)
 
-print("\nThis program is written and executed by Mannan Tayal (0231BCA047)")
+print("\nThis program is written and executed by priyesh( 0231BCA024)")
