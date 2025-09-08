@@ -9,4 +9,4 @@ def count_up_to(n):
 for number in count_up_to(5):
     print(number)
 
-print("This program is written and executed by Mannan Tayal (0231BCA047)")
+print("This program is written and executed by Priyesh (0231BCA024)")
