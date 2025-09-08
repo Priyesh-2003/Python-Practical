@@ -4,4 +4,4 @@ for i in range(1, 6):
     print("Number:", i)
 
 # Signature line
-print("\nThis program is written and executed by Mannan Tayal (0231BCA047)")
+print("\nThis program is written and executed by priyesh kumar gautam (0231BCA024)")
