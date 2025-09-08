@@ -22,4 +22,4 @@ print(perfect_numbers)
 print("\nTotal number of perfect numbers:", len(perfect_numbers))
 
 # Signature line
-print("\nThis program is written and executed by Mannan Tayal (0231BCA047)")
+print("\nThis program is written and executed by priyesh (0231BCA024)")
