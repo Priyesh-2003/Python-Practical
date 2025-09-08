@@ -10,4 +10,4 @@ print("bytearray:", mutable_data)
 view = memoryview(binary_data)
 print("memoryview:", view)
 
-print("this program was written and executed by Mannan Tayal (0231BCA047)")
+print("this program was written and executed by Priyesh(0231BCA024)")
