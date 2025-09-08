@@ -6,4 +6,4 @@ fruits = ["apple", "banana", "cherry", "mango"]
 for index, value in enumerate(fruits):
     print("Index:", index, "Value:", value)
 
-print("This program is written and executed by Mannan Tayal (0231BCA047)")
+print("This program is written and executed by Priyesh (0231BCA024)")
