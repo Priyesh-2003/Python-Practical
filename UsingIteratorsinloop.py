@@ -7,4 +7,4 @@ it = iter(my_list)
 for item in it:
     print(item)
     
-print("\nThis program is written and executed by Mannan Tayal (0231BCA047)")
+print("\nThis program is written and executed by priyesh (0231BCA024)")
