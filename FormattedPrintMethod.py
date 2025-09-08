@@ -11,4 +11,4 @@ print(f"Class     : {class_name}")
 print(f"Roll No   : {roll_no}")
 print(f"Age       : {age}")
 
-print("This program is written and executed by Mannan Tayal (0231BCA047).")
+print("This program is written and executed by Priyesh (0231BCA024).")
