@@ -13,4 +13,4 @@ using triple single quotes.
 
 print("Comments are not shown in output")
 
-print("this program was written and executed by Mannan Tayal (0231BCA047)")
+print("this program was written and executed by priyesh (0231BCA024)")
