@@ -7,4 +7,4 @@ print(keyword.kwlist)
 # Count of keywords
 print("\nTotal number of keywords:", len(keyword.kwlist))
 
-print("this program was written and executed by Mannan Tayal (0231BCA047)")
+print("this program was written and executed by priyesh (0231BCA024)")
