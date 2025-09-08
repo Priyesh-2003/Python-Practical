@@ -10,6 +10,6 @@ my_list.remove(4)
 
 print(my_list)
 
-print("This program is written and executed by Mannan Tayal (0231BCA047)")
+print("This program is written and executed by Priyesh (0231BCA024)")
 
 #
