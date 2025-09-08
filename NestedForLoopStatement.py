@@ -7,4 +7,4 @@ for i in range(1, 4):  # Outer loop (rows)
     print()  # Newline after each row
 
 # Signature line
-print("\nThis program is written and executed by Mannan Tayal (0231BCA047)")
+print("\nThis program is written and executed bypriyesh (0231BCA024)")
