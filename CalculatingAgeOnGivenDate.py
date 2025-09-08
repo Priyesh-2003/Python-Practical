@@ -13,4 +13,4 @@ if (given.month, given.day) < (dob.month, dob.day):
     age -= 1
 
 print(f"Your age on {given_date} is: {age} years.")
-print("This program is written and executed by Mannan Tayal (0231BCA047).")
+print("This program is written and executed by Priyesh (0231BCA024).")
