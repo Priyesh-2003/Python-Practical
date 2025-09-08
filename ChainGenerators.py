@@ -12,4 +12,4 @@ def chained_generators():
 for item in chained_generators():
     print(item)
 
-print("This program is written and executed by Mannan Tayal (0231BCA047)")
+print("This program is written and executed by Priyesh (0231BCA024)")
