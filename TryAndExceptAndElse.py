@@ -12,4 +12,4 @@ except ValueError:
 else:
     print("Division successful. Result is:", result)
 
-print("This program is written and executed by Mannan Tayal (0231BCA047)")
+print("This program is written and executed by prriyesh (0231BCA024)")
