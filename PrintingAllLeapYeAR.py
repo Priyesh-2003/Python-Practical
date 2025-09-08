@@ -17,4 +17,4 @@ print(leap_years)
 # Print the total count
 print("\nTotal number of leap years:", len(leap_years))
 
-print("This program is written and executed by Mannan Tayal (0231BCA047)")
+print("This program is written and executed by priyesh (0231BCA024)")
