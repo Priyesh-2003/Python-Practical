@@ -8,4 +8,4 @@ while i < 10:
         continue  # Skip the rest of the loop when i is 5
     print(i)
 
-print("This program is written and executed by Mannan Tayal (0231BCA047)")
+print("This program is written and executed by Priyesh (0231BCA024)")
