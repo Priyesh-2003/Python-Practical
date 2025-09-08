@@ -17,4 +17,4 @@ rev = Reverse('giraffe')
 for char in rev:
     print(char)  # Outputs: e, f, f, a, r, i, g
 
-print("\nThis program is written and executed by Mannan Tayal (0231BCA047)")
+print("\nThis program is written and executed by Priyehs (0231BCA024)")
