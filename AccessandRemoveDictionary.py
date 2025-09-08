@@ -6,4 +6,4 @@ name = my_dict.get('name')
 
 print(name)
 
-print("\nThis program is written and executed by Mannan Tayal (0231BCA047)")
+print("\nThis program is written and executed by Priyesh (0231BCA024)")
