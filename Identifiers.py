@@ -13,4 +13,4 @@ print("age =", age)
 
 print("\nInvalid Identifiers: 2name, my name, class")
 
-print("this program was written and executed by Mannan Tayal (0231BCA047)")
+print("this program was written and executed by Priyesh  (0231BCA024)")
